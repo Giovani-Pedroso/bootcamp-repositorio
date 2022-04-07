@@ -1,0 +1,8 @@
+#+title: Repositorio bootcamp
+
+* Objectivo
+
+Esse repositorio será usado como registro do meu processo de aprendisado
+
+
+* Scrum (Teorico)
